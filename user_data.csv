@@ -1,0 +1,5 @@
+firstName, LastName, emailAddressPersonal, phoneMobile, birthDate, consultantStatus
+Lara, Ted, lara@ted.com, 6000000001, 1990-01-22T00:00:00, A1
+John, Doe, john@doe.com, 6000000002, 1990-01-23T00:00:00, A2
+James, Hunt, james@hunt.com, 6000000003, 1990-01-24T00:00:00, A3
+
